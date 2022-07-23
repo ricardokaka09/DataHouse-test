@@ -10,7 +10,7 @@ oddNumber : ascending order </br>
 evenNumber: descending order
 
 ```bash
-$ node src/sortedNumbers.js
+$ node src/sortNumbers.js
 ```
 
 
